@@ -32,6 +32,7 @@ public class SingleFamilyHome extends Residential {
 
 	  @Override
 	  public void draw() {
+		  System.out.println("<<Draw building>>");
 	  }
 
 	  @Override

@@ -51,6 +51,7 @@ public class Application {
 	    mall1.setNumRentedUnits(3);
 	    mall1.setMedianUnitSize(500);
 	    mall1.setNumParkingSpaces(100);
+	    mall1.draw();
 	    System.out.println(mall1.displayData());
 
 	}

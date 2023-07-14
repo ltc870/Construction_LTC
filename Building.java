@@ -70,6 +70,7 @@ public class Building {
 	  }
 
 	  public void draw() {
+		  System.out.println("<<Draw building>>");
 	  }
 
 	  public String displayData() {

@@ -53,6 +53,7 @@ public class Residential extends Building {
 
 	  @Override
 	  public void draw() {
+		  System.out.println("<<Draw building>>");
 	  }
 
 	  @Override

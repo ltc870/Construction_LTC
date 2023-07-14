@@ -4,6 +4,7 @@ public class Business extends Building{
 	// instance variables
 	  protected int numRentableUnits;
 
+	  
 	  // CONSTRUCTORS
 	  // empty argument constructor
 	  public Business() {
@@ -32,6 +33,7 @@ public class Business extends Building{
 
 	  @Override
 	  public void draw() {
+		  System.out.println("<<Draw building>>");
 	  }
 
 	  @Override

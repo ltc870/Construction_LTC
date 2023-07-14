@@ -54,6 +54,7 @@ public class Mall extends Business{
 
 	  @Override
 	  public void draw() {
+		  System.out.println("<<Draw building>>");
 	  }
 
 	  @Override
